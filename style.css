@@ -1,0 +1,87 @@
+/* main div  */
+.main{
+    height: 100vh;
+    background-color: brown;
+width: 1000px;
+display: inline-block;
+}
+/* body  */
+body{
+    margin: 0px;
+}
+/* container */
+.container{
+width: 3800px;
+background-color: pink;
+height: 6000px;
+position: fixed;
+overflow: scroll;
+display: inline-block;
+}
+
+.container h1{
+font-size: 300px;
+padding-top: 340px;
+padding-left: 200px;
+font-family: "Dancing Script", cursive;
+}
+
+.container p{
+    font-size: 80px;
+    padding-left: 240px;    
+    }
+
+/* 
+ .container i {
+border-radius: 40%;
+    font-size: 200px;
+
+width: 200px;
+height: 200px; 
+} 
+
+
+i:hover {
+background-color: brown;
+height: 80px;
+width:  80px;
+border-radius: 80%;
+} */
+
+
+
+/* 
+p i:hover{
+
+background-color: brown;
+height: 100px;
+width: 100px;
+border-radius: 50%;
+} */
+
+/* anckor and image */
+a img{
+    border-radius: 50%;
+    height: 600px;
+    width: 600px;
+    margin: auto;
+    border: 26px solid rgb(73, 154, 10); 
+    }
+/* main */
+    .main{
+padding-top: 380px;
+padding-left: 140px;
+    }
+/* child div styling */
+div div.madiha{
+    font-size: 90px;
+width: 90px;
+    padding-top: 100px;
+    padding-left: 60px;
+}
+
+div div.madiha p > a{
+text-decoration: none    ;
+}
+
+
